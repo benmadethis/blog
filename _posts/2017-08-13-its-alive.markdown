@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "IT'S ALIVE!"
+---
+Well, it only took ten months, but I have finaly got around to creating the Jekyll blog I promised when I first bought this domain. It's a little bland and bare at the moment, but I promise that will change over the coming weeks. *fingers crossed*
